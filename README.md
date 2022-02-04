@@ -13,7 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. **I am learning, growing and achieving everyday...**
-<img align="right" alt="GIF" src="./coding2.gif" width="250" height="250"/>
+<img align="right" alt="GIF" src="./coding2.gif" width="300" height="300"/>
 <br>
   
 ### Let us know something about me:
