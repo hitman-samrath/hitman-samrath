@@ -1,6 +1,6 @@
 <div style="background-color:#121212">
 <div style="color:#fff">
-### Hi ,I am Samrath Singh Kalra! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+Hi ,I am Samrath Singh Kalra! 👋
 <br>
 
 ### An enthusiastic developer: learning, growing and achieving everyday.<br>
