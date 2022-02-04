@@ -1,28 +1,35 @@
 <div style="background-color:#121212">
 <div style="color:#fff">
-Hi ,I am Samrath Singh Kalra! 👋
 <br>
 
-### An enthusiastic developer: learning, growing and achieving everyday.<br>
+## Hi there, I'm <a href="https://hitman-samrath.github.io/Portfolio" target="_blank">Samrath Singh Kalra</a> 👋
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE from Lovely Professional University** <br>
-- 🏫 I’m currently learning **Full stack development (MERN Stack)** <br>
-- 🙌 I’m looking to collaborate on **MERN Stack Projects** <br>
-- 🤔 I’m looking for help with **Development and Internship Opportunities**<br>
-- 🥅 2022 Goals: **Keeping the learning and growth graph rising exponentially.** <br>
+### Glad to see you here! Feel free to connect with me:
 
-
-### 🕵 Take a look at my repositories and let's get in touch!<br>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-samrath-singh-kalra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samrath-singh-kalra/)](https://www.linkedin.com/in/samrath-singh-kalra/) 
-[![Twitter Badge](https://img.shields.io/badge/-@HitmanSamrath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HitmanSamrath)](https://twitter.com/HitmanSamrath) 
-[![Facebook Badge](https://img.shields.io/badge/-Samrath-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Samrath)](https://www.facebook.com/Samrath) 
-[![Instagram Badge](https://img.shields.io/badge/-@samrathsinghrohit-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/samrathsinghrohit)](https://www.instagram.com/samrathsinghrohit) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samrath-singh-kalra)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hitman-samrath.github.io/Portfolio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HitmanSamrath)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
 
 
-### 📈 Github Stats:
+I am a young and enthusiastic developer. I love development, coding, writing and traveling. I am learning, growing and achieving everyday...
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Let us know something about me:**
+
+- 👨🏻‍💻 I’m working on ReactJs;
+- 🚀 I’m currently learning Full Stack Development using MERN Stack.
+- 💬 Ask me about anything, I'll be glad to help.
+- 📫 Email me: samrathsinghrohit@gmail.com.
+- 📝 Have a glance at my [Resume](https://hitman-samrath.github.io/Portfolio/static/media/Frontend-Developer%20CV.4e93703d.pdf).
+
+</br>
+
+
+📈 **My GitHub Stats:**
 
 <br>
 <a href="https://github.com/hitman-samrath">
@@ -37,6 +44,7 @@ Hi ,I am Samrath Singh Kalra! 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
 
-</div>
-</div>
 
+
+</div>
+</div>
