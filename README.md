@@ -13,7 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. **I am learning, growing and achieving everyday...**
-<img align="right" alt="GIF" src="./coding2.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="./coding2.gif" width="300" height="300" />
 <br>
   
 ### Let us know something about me:
@@ -28,13 +28,14 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 
 📈 **My GitHub Stats:**
   
+  <br>  
 <a href="https://github.com/hitman-samrath">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>
   <br><br>
   
   <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br><br>
 
