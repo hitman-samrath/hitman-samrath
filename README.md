@@ -15,7 +15,7 @@
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. I am learning, growing and achieving everyday...
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="./coding.gif" width="300" height="250" />
   
 
 **Let us know something about me:**
