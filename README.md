@@ -31,11 +31,11 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 <a href="https://github.com/hitman-samrath">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>
-<br><br>
+<br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" width="150em" height="200em"/>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" height="350em" width="350em"/>
 </a>
-<br><br>
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
   
 </div>
