@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samrath-singh-kalra)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hitman-samrath.github.io/Portfolio)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HitmanSamrath)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samrathsinghrohit/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. **I am learning, growing and achieving everyday...**
@@ -33,7 +33,7 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark"  height="200em"/>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" width="150em" height="200em"/>
 </a>
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
