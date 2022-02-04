@@ -29,7 +29,7 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 📈 **My GitHub Stats:**
 <br><br>
 <a href="https://github.com/hitman-samrath">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </a>
   
 <br> <a href="https://github.com/remcohalman/github-readme-stats">
