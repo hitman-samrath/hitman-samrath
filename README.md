@@ -29,13 +29,15 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 📈 **My GitHub Stats:**
 <br><br>
 <a href="https://github.com/hitman-samrath">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" height="170em">
 </a>
+  
 <br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" height="350em" width="350em"/>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" height="300" width="300"/>
 </a>
 <br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
   
 </div>
