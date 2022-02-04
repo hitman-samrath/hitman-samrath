@@ -19,7 +19,7 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 ### Let us know something about me:
 
 - 👨🏻‍💻 I’m working on ReactJs;
-- 🚀 I’m currently learning Full Stack Development using MERN Stack.
+- 🚀 I’m currently learning Full Stack Development (MERN Stack).
 - 💬 Ask me about anything, I'll be glad to help.
 - 📫 Email me: samrathsinghrohit@gmail.com.
 - 📝 Have a glance at my [Resume](https://hitman-samrath.github.io/Portfolio/static/media/Frontend-Developer%20CV.4e93703d.pdf).
@@ -27,15 +27,16 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 </br>
 
 📈 **My GitHub Stats:**
-
-<a href="https://github.com/remcohalman/github-readme-stats">
+  
+<a href="https://github.com/hitman-samrath">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+</a>
+  <br><br>
+  
+  <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br><br>
-  
-<a href="https://github.com/hitman-samrath">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
-</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
   
