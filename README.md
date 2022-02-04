@@ -15,7 +15,7 @@
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. I am learning, growing and achieving everyday...
 
-<img align="right" alt="GIF" src="./coding.gif" width="300" height="250" />
+<img align="right" alt="GIF" src="./coding2.gif" width="400" height="300" />
   
 
 **Let us know something about me:**
