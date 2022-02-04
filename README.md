@@ -13,7 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
 
 I am a young and enthusiastic developer. I love development, coding, writing and traveling. **I am learning, growing and achieving everyday...**
-<img align="right" alt="GIF" src="./coding2.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="./coding2.gif" width="250" height="250"/>
 <br>
   
 ### Let us know something about me:
@@ -27,18 +27,15 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 </br>
 
 📈 **My GitHub Stats:**
-  
-  <br>  
+<br><br>
 <a href="https://github.com/hitman-samrath">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
-</a>
-  <br><br>
-  
-  <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman-samrath&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>
 <br><br>
-
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitman-samrath&layout=compact&theme=vision-friendly-dark"  height="200em"/>
+</a>
+<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitman-samrath&theme=dark)](https://git.io/streak-stats)
   
 </div>
