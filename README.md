@@ -1,8 +1,10 @@
 <div style="background-color:#121212">
 <div style="color:#fff">
 <br>
+
   
 ## Hi there, I'm <a href="https://hitman-samrath.github.io/Portfolio" target="_blank">Samrath Singh Kalra</a> 👋
+  ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+competitive+coder;At+times,+I+can+be+a+developer+too.)](https://git.io/typing-svg)
 
 ### Glad to see you here! Feel free to connect with me:
 
@@ -22,7 +24,7 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 - 🚀 I’m currently learning Full Stack Development (MERN Stack).
 - 💬 Ask me about anything, I'll be glad to help.
 - 📫 Email me: samrathsinghrohit@gmail.com.
-- 📝 Have a glance at my [Resume](https://hitman-samrath.github.io/Portfolio/static/media/Frontend-Developer%20CV.4e93703d.pdf).
+- 📝 Have a glance at my [Resume](https://drive.google.com/file/d/1Ke6FF4XiXtlxWT80V4lZJWNinmb4HKd0/view?usp=share_link).
   
 </br>
 
