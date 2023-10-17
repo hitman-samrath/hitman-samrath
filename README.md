@@ -24,7 +24,7 @@ I am a young and enthusiastic developer. I love development, coding, writing and
 - 🚀 I’m currently learning Full Stack Development (MERN Stack).
 - 💬 Ask me about anything, I'll be glad to help.
 - 📫 Email me: samrathsinghrohit@gmail.com.
-- 📝 Have a glance at my [Resume](https://drive.google.com/file/d/1Ke6FF4XiXtlxWT80V4lZJWNinmb4HKd0/view?usp=share_link).
+- 📝 Have a glance at my [Resume](https://drive.google.com/file/d/13-fx4Q1bBWT-43a6iEDaW_MPbN4g0u3X/view?usp=sharing).
   
 </br>
 
